@@ -1,0 +1,51 @@
+_repo: K4-O-Quadrado-Azul_23133
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Almada Negreiros, José de
+    aliases:
+    - Negreiros, Jose Sobral de Almada
+    - Negreiros, José Sobral de Almada
+    - De Almada Negreiros, José
+    - Negreiros, José de Almada
+    - Sobral de Almada Negreiros, José
+    birthdate: 1893
+    deathdate: 1970
+    gutenberg_agent_id: '25447'
+    url: http://www.gutenberg.org/2009/agents/25447
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_de_Almada_Negreiros
+    - http://pt.wikipedia.org/wiki/Almada_Negreiros
+  editor:
+    agent_name: Sousa-Cardoso, Amadeu de
+    aliases:
+    - Souza-Cardoso, Amadeo de
+    - Cardoso, Amadeu de Sousa-
+    - Cardoso, Amadeo de Souza-
+    birthdate: 1887
+    deathdate: 1918
+    gutenberg_agent_id: '25701'
+    url: http://www.gutenberg.org/2009/agents/25701
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Amadeo_de_Souza_Cardoso
+    - http://pt.wikipedia.org/wiki/Amadeo_de_Souza-Cardoso
+description: ''
+gutenberg_issued: '2007-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23133'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Lisboa:\r\n1917\r\nEuropa Modelo 1920"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: K4 O Quadrado Azul
+url: http://www.gutenberg.org/ebooks/23133
