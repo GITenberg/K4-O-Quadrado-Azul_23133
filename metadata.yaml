@@ -33,6 +33,8 @@ creator:
     - http://en.wikipedia.org/wiki/Amadeo_de_Souza_Cardoso
     - http://pt.wikipedia.org/wiki/Amadeo_de_Souza-Cardoso
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23133#K4-O-Quadrado-Azul
 gutenberg_issued: '2007-10-21'
 gutenberg_type: Text
 identifiers:
